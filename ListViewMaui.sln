@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewMaui", "ListViewMaui.csproj", "{3057B52E-49F9-4762-A642-5F81DCEBC106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3057B52E-49F9-4762-A642-5F81DCEBC106}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325E1898-6963-491C-A60C-C15C777F6084}
+	EndGlobalSection
+EndGlobal
